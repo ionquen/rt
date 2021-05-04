@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      
+	<url>
+		<loc>https://regtool.net/404</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/500</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/index</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/budilnik</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/calkylyator</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/chat</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/chto-takoe-pwa</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/dlya-chego-nuzhen-manifest</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/dlya-chego-nuzhny-knopki-mr-ms-mc-m+-m--na-kalkulyatore</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/kak-dobavit-sayt-na-glavnyy-ekran</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/kak-povysit-effektivnost-raboty-za-kompyuterom</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/nabor-poleznyh-goryachih-klavish</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/secundomer</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/tajmer</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru/terms</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://regtool.net/ru</loc>
+		<lastmod>2021-05-05</lastmod>
+	</url>
+</urlset>
