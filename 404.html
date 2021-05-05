@@ -1,0 +1,88 @@
+<html>
+
+<head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    .errorBlock {
+      display: flex;
+      flex-direction: column;
+      width: 100vw;
+      height: 100vh;
+      max-height: 100vh;
+      background-color: #f2f2f2;
+      font-family: Arial;
+    }
+
+    .errorBlock> :nth-child(1) {
+      padding: 40px;
+      text-align: center;
+    }
+
+    .errorBlock> :nth-child(1)> :nth-child(1) {
+      font-size: 60px;
+      padding: 30px;
+    }
+
+    .errorBlock> :nth-child(1)> :nth-child(2) {
+      font-size: 30px;
+      color: rgb(60, 60, 60);
+    }
+
+    .errorBlock> :nth-child(1)> :nth-child(3) {
+      display: block;
+      font-size: 30px;
+      padding: 30px;
+      color: rgb(30, 30, 30);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="errorBlock">
+    <div>
+      <div id="error_code">
+
+      </div>
+      <div id="error_label">
+
+      </div>
+      <a href="/" id="link_elem">
+
+      </a>
+
+    </div>
+  </div>
+  <script>
+    function getDesc(lang) {
+      switch (lang) {
+        case 'ru': return 'Страницу по данному адресу не удалось найти. Возможно ссылка оказалась неисправной или страница, расположенная на ней переместилась или была удалена. '
+        default: return 'Страницу по данному адресу не удалось найти. Возможно ссылка оказалась неисправной или страница, расположенная на ней переместилась или была удалена. '
+      }
+    }
+    function getError(lang) {
+      switch (lang) {
+        case 'ru': return 'Ошибка 404'
+        default: return 'Error 404'
+      }
+    }
+    function getMainPage(lang) {
+      switch (lang) {
+        case 'ru': return 'На главную'
+        default: return 'Main page'
+      }
+    }
+    const lang = /^.{2}/.exec(window.navigator.language)[0]
+    document.getElementById('error_code').innerText = getError(lang)
+    document.getElementById('error_label').innerText = getDesc(lang)
+    const link_elem = document.getElementById('link_elem')
+    link_elem.setAttribute('href', `/${lang}/`)
+    link_elem.innerText = getMainPage(lang)
+  </script>
+</body>
+
+</html>
