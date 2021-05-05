@@ -6,21 +6,6 @@
       xmlns:xhtml="http://www.w3.org/1999/xhtml">
       
 	<url>
-		<loc>https://regtool.net/404</loc>
-		<lastmod>2021-05-05</lastmod>
-	</url>
-
-	<url>
-		<loc>https://regtool.net/500</loc>
-		<lastmod>2021-05-05</lastmod>
-	</url>
-
-	<url>
-		<loc>https://regtool.net/index</loc>
-		<lastmod>2021-05-05</lastmod>
-	</url>
-
-	<url>
 		<loc>https://regtool.net/ru/budilnik</loc>
 		<lastmod>2021-05-05</lastmod>
 	</url>
