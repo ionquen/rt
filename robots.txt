@@ -1,5 +1,2 @@
-User-agent: *
-Disallow: https://regtool.net
-Allow: https://regtool.net/*
 
 Sitemap: https://regtool.net/sitemap.xml
