@@ -1,4 +1,0 @@
-Sitemap: https://regtool.net/sitemap.xml
-
-User-agent: *
-Disallow: /*?*key=
