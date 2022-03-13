@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[47],{"9DgW":function(e,t,n){var p=n("q1tI");function o(e){return p.createElement("svg",e,p.createElement("path",{d:"M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21v-2z"}))}o.defaultProps={height:"24px",viewBox:"0 0 24 24",width:"24px",fill:"#000000"},e.exports=o,o.default=o}}]);
