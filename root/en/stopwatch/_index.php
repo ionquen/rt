@@ -1,0 +1,1 @@
+{"paused":"Paused","lap":"Lap","start":"Start"}
