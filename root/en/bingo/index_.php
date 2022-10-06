@@ -1,1 +1,1 @@
-{"textStyle":"Text style","cellStyle":"Cell style","resetStyles":"Reset cell styles","useCheckMark":"Use check mark","autoSize":"AutoSize","editorMode":"Editor mode","selectionMode":"Selection mode","columns":"Number of columns","rows":"Number of rows"}
+{"textStyle":"Text style","cellStyle":"Cell style","resetStyles":"Reset cell styles","useCheckMark":"Use check mark","autoSize":"AutoSize","editorMode":"Editor mode","selectionMode":"Selection mode","columns":"Number of columns","rows":"Number of rows","nameStyled":"Stylize the name","fullSizeImage":"Entire images in a cell"}
