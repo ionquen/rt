@@ -1,1 +1,0 @@
-{"textStyle":"Diseño del texto","cellStyle":"Diseño de celda","resetStyles":"Restablecer estilos de celda","useCheckMark":"Marcar","autoSize":"Tamaño automático","editorMode":"Modo de edición","selectionMode":"Modo de selección","columns":"Número de columnas","rows":"Número de filas","nameStyled":"Estilizar el título","fullSizeImage":"Imágenes de celda completa"}

@@ -1,1 +1,0 @@
-{"paused":"En suspenso","lap":"Círculo","start":"Empezar"}
