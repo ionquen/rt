@@ -1,0 +1,1 @@
+{"title":"Tee kunkin sanan ensimmäinen kirjain","description":"Tämän työkalun avulla voit tehdä kunkin sanan ensimmäisen kirjaimen. Tämä voi olla hyödyllistä antaa tekstille erityinen tyyppi, keskittyen itseensä.","content":"Tämän työkalun avulla voit tehdä kunkin sanan ensimmäisen kirjaimen. Tämä voi olla hyödyllistä antaa tekstille erityinen tyyppi, keskittyen itseensä."}

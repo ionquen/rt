@@ -1,0 +1,1 @@
+{"title":"Gör titeln första bokstaven i den första ordet meningen","description":"Det här verktyget låter dig förvandla titeln första bokstaven i den första ordet. Detta kan behövas om originaltexten skrevs felaktigt.","content":"Det här verktyget låter dig göra titeln första bokstaven i den första ord meningen. Detta kan behövas om originaltexten skrevs felaktigt."}
